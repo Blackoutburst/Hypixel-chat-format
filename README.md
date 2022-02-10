@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/Blackoutburst/Hypixel-chat-format.svg)](LICENSE)
+[![Release](https://img.shields.io/github/release/Blackoutburst/Hypixel-chat-format.svg)](https://github.com/Blackoutburst/Hypixel-chat-format/releases)
+
 # Hypixel-chat-format
 Hypixel chat format is supperior anyway
 
