@@ -1,0 +1,6 @@
+main: com.blackoutburst.hcf.main.Main
+name: Hypixel-Chat-Format
+version: 1.0
+api-version: 1.13
+author: Blackoutburst
+description: A really basic plugin to format the chat like on Hypixel
